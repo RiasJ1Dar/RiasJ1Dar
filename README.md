@@ -1,6 +1,6 @@
 ### Віктор Гартунг · RiasJ1Dar
 
-Відкритий код, українською там, де це допомагає користувачу. Канонічні репозиторії — на [GitHub](https://github.com/RiasJ1Dar); публічні дзеркала — на [GitLab](https://gitlab.com/RiasJ1Dar).
+Відкритий код, українською там, де це допомагає користувачу. Портфоліо: [riasj1dar.github.io](https://riasj1dar.github.io/). Канонічні репозиторії — на [GitHub](https://github.com/RiasJ1Dar); публічні дзеркала — на [GitLab](https://gitlab.com/RiasJ1Dar).
 
 **Підтримати автора:** [Monobank](https://send.monobank.ua/jar/4XsDm8vmF2)  
 GitHub Sponsors для України поки недоступний — донат іде в ту саму банку.
