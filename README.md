@@ -1,21 +1,40 @@
-### Віктор Гартунг · RiasJiDar
+# Віктор Гартунг · RiasJiDar
 
-Відкритий код, українською там, де це допомагає користувачу. Портфоліо: [riasjidar.github.io](https://riasj1dar.github.io/). Канонічні репозиторії — на [GitHub](https://github.com/RiasJ1Dar); публічні дзеркала — на [GitLab](https://gitlab.com/RiasJ1Dar).
+Роблю самодостатні Windows-застосунки, інструменти для AI-агентів, MCP,
+інкрементні оновлення та українські локалізації. Основні мови — Rust, Python,
+PowerShell, C# і JavaScript.
 
-**Підтримати автора:** [Monobank](https://send.monobank.ua/jar/4XsDm8vmF2)  
-GitHub Sponsors для України поки недоступний — донат іде в ту саму банку.
+**Портфоліо:** [riasj1dar.github.io](https://riasj1dar.github.io/)  
+**Код:** [GitHub](https://github.com/RiasJ1Dar) · [GitLab](https://gitlab.com/RiasJ1Dar)
 
-### Проєкти
+## Нові інструменти
+
+| Репозиторій | Що робить |
+|---|---|
+| [mcp-status](https://github.com/RiasJ1Dar/mcp-status) | Windows-трей: live/dead стан локальних MCP-серверів |
+| [agent-desk](https://github.com/RiasJ1Dar/agent-desk) | Людський HTML-перегляд `NOW.md` поруч з agent-exchange |
+| [desktop-remote-kit](https://github.com/RiasJ1Dar/desktop-remote-kit) | Rust-блоки для трея, автозапуску, Telegram і update check |
+| [ota-sign](https://github.com/RiasJ1Dar/ota-sign) | Ed25519-підписані OTA-маніфести й SHA-512 блоби |
+| [kit-packager](https://github.com/RiasJ1Dar/kit-packager) | `cargo build → ota-sign → gh release` одним CLI |
+| [asar-ua](https://github.com/RiasJ1Dar/asar-ua) | Універсальний патчер локалі Electron `app.asar` |
+
+## Основні проєкти
 
 | Репозиторій | Про що |
 |---|---|
-| [TwitchDropFarm](https://github.com/RiasJ1Dar/TwitchDropFarm) | Майнер Twitch timed drops для Windows: один `.exe`, трей і Telegram-бот |
-| [downloader](https://github.com/RiasJ1Dar/downloader) | Менеджер завантажень для Windows (Rust): ядро, CLI, HLS |
-| [agent-exchange](https://github.com/RiasJ1Dar/agent-exchange) | MCP-сервер обміну між двома агентами над одним репозиторієм |
-| [antigravity-ua](https://github.com/RiasJ1Dar/antigravity-ua) | Повна українська локалізація Google Antigravity 2.0 + інсталятор |
+| [TwitchDropFarm](https://github.com/RiasJ1Dar/TwitchDropFarm) | Майнер Twitch timed drops: один `.exe`, трей і Telegram-бот |
+| [downloader](https://github.com/RiasJ1Dar/downloader) | Менеджер завантажень для Windows: Rust core, CLI, HLS |
+| [agent-exchange](https://github.com/RiasJ1Dar/agent-exchange) | MCP-сервер обміну між агентами: пошта, замки й спільна дошка |
+| [antigravity-ua](https://github.com/RiasJ1Dar/antigravity-ua) | Українська локалізація Google Antigravity 2.0 та інсталятор |
 | [umod-codex-gui](https://github.com/RiasJ1Dar/umod-codex-gui) | Rust GUI-лаунчер для Codex CLI з профілем UMOD |
-| [umod-installer](https://github.com/RiasJ1Dar/umod-installer) | Інсталятор Codex CLI під платформу UMOD |
-| [sweet-nethunter-kernel](https://github.com/RiasJ1Dar/sweet-nethunter-kernel) | NetHunter-ядро для Redmi Note 10 Pro (sweet): monitor mode + injection |
-| [szi-as-ota](https://github.com/RiasJ1Dar/szi-as-ota) | Зашифровані інкрементні оновлення «СЗІ в АС» (лише блоби, без ключів) |
+| [umod-installer](https://github.com/RiasJ1Dar/umod-installer) | Встановлення й налаштування Codex CLI для UMOD |
+| [sweet-nethunter-kernel](https://github.com/RiasJ1Dar/sweet-nethunter-kernel) | NetHunter-ядро для Redmi Note 10 Pro: monitor mode + injection |
+| [szi-as-ota](https://github.com/RiasJ1Dar/szi-as-ota) | Зашифровані інкрементні оновлення «СЗІ в АС» без ключів у репо |
 
-Community-файли за замовчуванням (CLA, CONTRIBUTING, FUNDING) — у [.github](https://github.com/RiasJ1Dar/.github).
+## Підтримати
+
+[Банка Monobank](https://send.monobank.ua/jar/4XsDm8vmF2). GitHub Sponsors для
+України поки недоступний, тому донат іде напряму в ту саму банку.
+
+Community-файли за замовчуванням — CLA, CONTRIBUTING, SECURITY і FUNDING —
+зберігаються в репозиторії [.github](https://github.com/RiasJ1Dar/.github).
