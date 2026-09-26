@@ -24,12 +24,13 @@ PowerShell, C# і JavaScript.
 |---|---|
 | [TwitchDropFarm](https://github.com/RiasJ1Dar/TwitchDropFarm) | Майнер Twitch timed drops: один `.exe`, трей і Telegram-бот |
 | [downloader](https://github.com/RiasJ1Dar/downloader) | Менеджер завантажень для Windows: Rust core, CLI, HLS |
+| [music-extractor](https://github.com/RiasJ1Dar/music-extractor) | Мінус, стеми й відновлення чистого треку з відео: RoFormer, Demucs |
 | [agent-exchange](https://github.com/RiasJ1Dar/agent-exchange) | MCP-сервер обміну між агентами: пошта, замки й спільна дошка |
 | [antigravity-ua](https://github.com/RiasJ1Dar/antigravity-ua) | Українська локалізація Google Antigravity 2.0 та інсталятор |
-| [umod-codex-gui](https://github.com/RiasJ1Dar/umod-codex-gui) | Rust GUI-лаунчер для Codex CLI з профілем UMOD |
-| [umod-installer](https://github.com/RiasJ1Dar/umod-installer) | Встановлення й налаштування Codex CLI для UMOD |
 | [sweet-nethunter-kernel](https://github.com/RiasJ1Dar/sweet-nethunter-kernel) | NetHunter-ядро для Redmi Note 10 Pro: monitor mode + injection |
 | [szi-as-ota](https://github.com/RiasJ1Dar/szi-as-ota) | Зашифровані інкрементні оновлення «СЗІ в АС» без ключів у репо |
+
+Частина робіт — закриті репозиторії на замовлення, тут їх немає.
 
 ## Підтримати
 
